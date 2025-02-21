@@ -1,0 +1,8 @@
+{
+  "repositories": [
+    {
+      "name": "langenggithub/staticman",
+      "branch": "main"
+    }
+  ]
+}
